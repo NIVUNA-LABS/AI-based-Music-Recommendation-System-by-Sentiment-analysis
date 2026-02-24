@@ -1,8 +1,4 @@
-Bro ?? got you.
-Here is a **clean, professional `README.md`** you can directly put in your project root.
-It is **final-year / GitHub / viva ready**.
 
----
 
 #SENTIMENTAL ANALYSIS BASED MUSIC RECOMMENDATION SYSTEM
 
@@ -24,10 +20,10 @@ Developed a real-time Emotion-Based Music Recommender using Streamlit, MediaPipe
 ## ?? Technologies Used
 
 * **Python 3.11.5**
-* **Streamlit** ñ Web framework
-* **streamlit-webrtc** ñ Real-time Streaming
-* **OpenCV** ñ Computer Vision
-* **MediaPipe** ñ Landmark Detection
+* **Streamlit** ‚Äì Web framework
+* **streamlit-webrtc** ‚Äì Real-time Streaming
+* **OpenCV** ‚Äì Computer Vision
+* **MediaPipe** ‚Äì Landmark Detection
 * **python**- Backend Logic
 
 ---
@@ -106,7 +102,7 @@ o Emotion class (e.g., Happy, Sad, Angry, Neutral)
 
 ## ?? Viva Explanation (Short)
 
-This project is an Emotion-Based Music Recommender built using Streamlit. It captures live webcam video using streamlit-webrtc and detects facial and hand landmarks using MediaPipe. These landmarks are converted into numerical features and passed into a trained deep learning model built with Keras. The model predicts the user's emotion such as happy, sad, or angry. Based on the detected emotion, along with user-input language and singer, the system automatically recommends songs by opening relevant search results on YouTube. The goal is to provide personalized music recommendations based on real-time emotional state.î
+This project is an Emotion-Based Music Recommender built using Streamlit. It captures live webcam video using streamlit-webrtc and detects facial and hand landmarks using MediaPipe. These landmarks are converted into numerical features and passed into a trained deep learning model built with Keras. The model predicts the user's emotion such as happy, sad, or angry. Based on the detected emotion, along with user-input language and singer, the system automatically recommends songs by opening relevant search results on YouTube. The goal is to provide personalized music recommendations based on real-time emotional state.‚Äù
 
 ---
 
@@ -123,6 +119,7 @@ This project is an Emotion-Based Music Recommender built using Streamlit. It cap
 ## ?? Disclaimer
 
 This project is developed for educational purposes only. Emotion detection accuracy may vary based on lighting, camera quality, and model performance. Music recommendations are generated through YouTube search results and are not directly affiliated with or endorsed by YouTube
+
 
 
 
