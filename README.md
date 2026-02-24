@@ -60,8 +60,13 @@ emotion-music-recommender/
 3. Landmark extraction using MediaPipe  
 4. Feature Engineering (Landmark coordinates converted into relative positions)  
 5. Emotion prediction using trained deep learning model  
-6. Song recommendation via YouTube search  
-
+6. Song recommendation via YouTube search
+   
+<p align="center">
+<img width="367" height="137" alt="image" src="![WhatsApp Image 2026-02-24 at 11 15 37 PM](https://github.com/user-attachments/assets/e88fb68f-3c08-40b4-a1a4-82836cc8d601)
+" />
+</p>
+<p align="center">
 ---
 
 ## ▶️ How to Run the Project
@@ -122,3 +127,4 @@ This project is an Emotion-Based Music Recommendation System built using Streaml
 ## ⚠️ Disclaimer
 
 This project is developed for educational purposes only. Emotion detection accuracy may vary depending on lighting conditions, camera quality, and model performance. Music recommendations are generated via YouTube search results and are not directly affiliated with or endorsed by YouTube.
+
