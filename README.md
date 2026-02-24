@@ -66,7 +66,7 @@ emotion-music-recommender/
 <img width="367" height="137" alt="image" src="Workflow.jpeg" />
 </p>
 <p align="center">
----
+
 
 ## ▶️ How to Run the Project
 
@@ -126,5 +126,6 @@ This project is an Emotion-Based Music Recommendation System built using Streaml
 ## ⚠️ Disclaimer
 
 This project is developed for educational purposes only. Emotion detection accuracy may vary depending on lighting conditions, camera quality, and model performance. Music recommendations are generated via YouTube search results and are not directly affiliated with or endorsed by YouTube.
+
 
 
