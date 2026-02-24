@@ -1,0 +1,27 @@
+Software Requirements
+
+Python 3.8+
+
+Streamlit
+
+streamlit-webrtc
+
+OpenCV
+
+MediaPipe
+
+Keras / TensorFlow
+
+NumPy
+
+av library
+
+💻 Hardware Requirements
+
+Laptop/Desktop
+
+Webcam (built-in or external)
+
+Minimum 4GB RAM
+
+Stable internet connection
